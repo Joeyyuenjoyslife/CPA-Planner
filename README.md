@@ -9,5 +9,5 @@ This is the repo for the RA-L submission, CPA-Planner: Motion Planner with Compl
 
 
 
-#Acknowledgement 
+# Acknowledgement 
 This repo was developed based on Ego-Planner and RPG-quadrotor-controller, many thanks to them.
